@@ -1,0 +1,9 @@
+.env 
+__pycache__/ 
+*.pyc 
+*.db 
+node_modules/ 
+dist/ 
+progress.json 
+*.log 
+backend/recipes.db 
